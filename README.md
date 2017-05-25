@@ -1,4 +1,5 @@
-CS50 final project
+<h4>CS50 final project</h4>
+
 For my CS50 final project, I used Python to graph a shot chart of LeBron James' shots over his NBA career. The first step was to import matplotlib, pandas, seaborn and numpy into Python. We'll also want to import IPython display so we know what we're looking at.
 
 In [1]:
